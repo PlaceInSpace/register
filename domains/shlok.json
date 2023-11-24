@@ -1,10 +1,10 @@
 {
     "description": "Portfolio Website",
     "owner": {
-        "username": "PlaceInSpace",
+        "username": "C9DN",
         "email": "shlokmadhekar88@gmail.com"
     },
     "record": {
-        "CNAME": "d5c36b7d-4d85-449f-bd4d-0bbbc88fb781.id.repl.co"
+        "TXT": "vc-domain-verify=shlok.is-a.dev,d93ed450c3f3fc4fc215"
     }
 }
